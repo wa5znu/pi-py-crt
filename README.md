@@ -1,6 +1,8 @@
 # Pi Py CRT
 
-Prints Pi on a Rasperry Pi for use with a CRT.  Pi is in hex, sing the 
+Prints Pi on a Rasperry Pi for use with a CRT. 
+
+Pi is in hex, using the 
 BBP algorithm implementation in Python from https://literateprograms.org/pi_with_the_bbp_formula__python_.html
 
 ## Sample Image
