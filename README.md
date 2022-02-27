@@ -13,7 +13,7 @@ BBP algorithm implementation in Python from https://literateprograms.org/pi_with
 - Edit kernel boot line settings to enable RCA output as described in references
 - `raspi-config` for overscan/underscan, pixel doubling; used default size 720
 - `sudo apt install mg python3 gmp-devel sysvbanner && pip install gmp`
-- `mkdir -p bin && cp play*.sh ~/pi/bin/ && chmod a+x ~/bin/play*.sh`
+- `mkdir -p ~/bin && cp play*.sh ~/bin/ && chmod a+x ~/bin/play*.sh`
 - `export EDITOR=mg; crontab -e` `# add "@reboot /home/pi/bin/play.sh" to end`
 - `sudo reboot`
 
