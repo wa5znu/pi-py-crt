@@ -4,7 +4,7 @@ Prints Pi on a Rasperry Pi for use with a CRT.  Pi is in hex, sing the
 BBP algorithm implementation in Python from https://literateprograms.org/pi_with_the_bbp_formula__python_.html
 
 ## Sample Image
-![](docs/sony-crt-wa5znu.jpg | width=400)
+![](docs/sony-crt-wa5znu.jpg)
 
 ## Setup
 - Edit kernel boot line settings to enable RCA output
