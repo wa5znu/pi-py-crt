@@ -6,9 +6,8 @@ Pi is in hex, using the
 BBP algorithm implementation in Python from https://literateprograms.org/pi_with_the_bbp_formula__python_.html
 
 ## Sample Image
-![](docs/monitor-desk.jpg)
-
-![](docs/sony-crt-wa5znu.jpg)
+<img src="docs/monitor-desk.jpg" width="240" alt="Deskt with Miniature flat CRT monitor displaying Raspbian boot and a few lines of digits of pi in Hexadecimal"/>
+<img src="docs/sony-crt-wa5znu.jpg" width="240" alt="Screen closeup of Miniature flat CRT monitor displaying Raspbian boot and a few lines of digits of pi in Hexadecimal">
 
 ## Setup
 - Edit kernel boot line settings to enable RCA output as described in references
