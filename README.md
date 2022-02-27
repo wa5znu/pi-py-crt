@@ -6,6 +6,8 @@ Pi is in hex, using the
 BBP algorithm implementation in Python from https://literateprograms.org/pi_with_the_bbp_formula__python_.html
 
 ## Sample Image
+![](docs/monitor-desk.jpg)
+
 ![](docs/sony-crt-wa5znu.jpg)
 
 ## Setup
